@@ -1,0 +1,64 @@
+{
+  "list": [{
+    "name": "张三",
+    "userId": "181530324",
+    "headImg": "https://lin-xin.gitee.io/images/post/wms.png",
+    "sex": 1,
+    "nation": "汉实时试阿松大",
+    "nationPlace": "广东省东莞市长安镇实时试",
+    "phone": "18745612586",
+    "department": "计算机学院",
+    "grade": "18软工三班",
+    "branch": "部门"
+  },
+    {
+      "name": "纳兰嫣三",
+      "userId": 2,
+      "headImg": "https://lin-xin.gitee.io/images/post/wms.png",
+      "sex": 0,
+      "nation": "汉",
+      "nationPlace": "广东省东莞市长安镇",
+      "phone": "11021212",
+      "department": "计算机学院",
+      "grade": "18软工三班",
+      "branch": "部门"
+    },
+    {
+      "name": "张三",
+      "userId": 3,
+      "headImg": "https://lin-xin.gitee.io/images/post/wms.png",
+      "sex": 1,
+      "nation": "汉",
+      "nationPlace": "广东省东莞市长安镇",
+      "phone": "11021212",
+      "department": "计算机学院",
+      "grade": "18软工三班",
+      "branch": "部门"
+    },
+    {
+      "name": "张三",
+      "userId": 4,
+      "headImg": "https://lin-xin.gitee.io/images/post/wms.png",
+      "sex": 1,
+      "nation": "汉",
+      "nationPlace": "广东省东莞市长安镇",
+      "phone": "11021212",
+      "department": "计算机学院",
+      "grade": "18软工三班",
+      "branch": "部门"
+    },
+    {
+      "name": "张三",
+      "userId": 5,
+      "headImg": "https://lin-xin.gitee.io/images/post/wms.png",
+      "sex": 1,
+      "nation": "汉",
+      "nationPlace": "广东省东莞市长安镇",
+      "phone": "11021212",
+      "department": "计算机学院",
+      "grade": "18软工三班",
+      "branch": "部门"
+    }
+  ],
+  "pageTotal": 4
+}

@@ -1,0 +1,298 @@
+{
+	"test": [{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "5"
+		},
+		{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "4"
+		},
+		{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "2"
+		},
+		{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "4"
+		},
+		{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "1"
+		},
+		{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "3"
+		},
+		{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "4"
+		},
+		{
+			"img": "../../static/practice/txt.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "2"
+		},
+		{
+			"img": "../../static/practice/test.png",
+			"name": "格力2020年秋招网络运维岗笔试题",
+			"peoper": "4717",
+			"number": "17",
+			"deficult": "2"
+		}
+
+	],
+	
+	"judge":[
+		{
+			"title": "水是液体？",
+			"type": 5,
+			"optionList": [{
+				"prefix": "A",
+				"content": "对"
+			}, {
+				"prefix": "B",
+				"content": "错"
+			}],
+			"answer": "A",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "难到是固体不成？"
+		},{
+			"title": "水是液体？",
+			"type": 5,
+			"optionList": [{
+				"prefix": "A",
+				"content": "对"
+			}, {
+				"prefix": "B",
+				"content": "错"
+			}],
+			"answer": "A",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "难到是固体不成？"
+		},{
+			"title": "水是液体？",
+			"type": 5,
+			"optionList": [{
+				"prefix": "A",
+				"content": "对"
+			}, {
+				"prefix": "B",
+				"content": "错"
+			}],
+			"answer": "A",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "难到是固体不成？"
+		}
+	],
+	
+	"subjectList": [{
+			"title": "水是液体？",
+			"type": 1,
+			"optionList": [{
+				"prefix": "A",
+				"content": "对"
+			}, {
+				"prefix": "B",
+				"content": "错"
+			}],
+			"answer": "A",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "难到是固体不成？"
+		},
+		{
+			"title": "电流分有？",
+			"type": 1,
+			"optionList": [{
+				"prefixprefix": "A",
+				"content": "直流"
+			}, {
+				"prefixprefix": "B",
+				"content": "交流"
+			}, {
+				"prefixprefix": "C",
+				"content": "直流和交流"
+			}],
+			"answer": "C",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "科技学依据"
+		},
+		{
+			"title": "酸菜鱼的味道？",
+			"type": 2,
+			"optionList": [{
+				"prefixprefix": "A",
+				"content": "咸味"
+			}, {
+				"prefixprefix": "B",
+				"content": "辣味"
+			}, {
+				"prefix": "C",
+				"content": "甜味"
+			}, {
+				"prefix": "D",
+				"content": "酸味"
+			}],
+			"answer": "A,B,D",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "你怎么想都行，要的就是这个味，答案只能选A,B,D"
+		},
+		{
+			"title": "床前（____）光，疑是地上霜。",
+			"type": 3,
+			"optionList": [{
+				"prefix": "",
+				"content": ""
+			}],
+			"answer": "明月",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "问答题没有选项，无法做答，且不参与计分"
+		},
+		{
+			"title": "什么美国要限制华为？",
+			"type": 4,
+			"optionList": [{
+				"prefix": "",
+				"content": ""
+			}],
+			"answer": "",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "问答题没有选项，无法做答，且不参与计分"
+		},
+		{
+			"title": "前端写练习这块的怎么这么帅。",
+			"type": 4,
+			"optionList": [{
+				"prefix": "",
+				"content": ""
+			}],
+			"answer": "因为爱",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "问答题没有选项，无法做答，且不参与计分"
+		}
+	],
+
+	"choice": [{
+			"title": "电流分有？",
+			"type": 1,
+			"optionList": [{
+				"prefix": "A",
+				"content": "直流"
+			}, {
+				"prefix": "B",
+				"content": "交流"
+			}, {
+				"prefix": "C",
+				"content": "直流和交流"
+			}],
+			"answer": "C",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "科技学依据"
+		},
+		{
+			"title": "酸菜鱼的味道？",
+			"type": 2,
+			"optionList": [{
+				"prefix": "A",
+				"content": "咸味"
+			}, {
+				"prefix": "B",
+				"content": "辣味"
+			}, {
+				"prefix": "C",
+				"content": "甜味"
+			}, {
+				"prefix": "D",
+				"content": "酸味"
+			}],
+			"answer": "A,B,D",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "你怎么想都行，要的就是这个味，答案只能选A,B,D"
+		}
+	],
+
+	"completion": [{
+			"title": "床前（____）光，疑是地上霜。",
+			"type": 3,
+			"optionList": [{
+				"prefix": "",
+				"content": ""
+			}],
+			"answer": "明月",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "问答题没有选项，无法做答，且不参与计分"
+		},
+		{
+			"title": "前端写练习这块的怎么这么帅。",
+			"type": 3,
+			"optionList": [{
+				"prefix": "",
+				"content": ""
+			}],
+			"answer": "因为爱",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "问答题没有选项，无法做答，且不参与计分"
+		}
+	],
+
+	"saqs": [{
+			"title": "什么美国要限制华为？",
+			"type": 4,
+			"optionList": [{
+				"prefix": "",
+				"content": ""
+			}],
+			"answer": "",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "问答题没有选项，无法做答，且不参与计分"
+		},
+		{
+			"title": "前端写练习这块的怎么这么帅。",
+			"type": 4,
+			"optionList": [{
+				"prefix": "",
+				"content": ""
+			}],
+			"answer": "因为爱",
+			"userAnswer": "",
+			"userFavor": false,
+			"explain": "问答题没有选项，无法做答，且不参与计分"
+		}
+	]
+}

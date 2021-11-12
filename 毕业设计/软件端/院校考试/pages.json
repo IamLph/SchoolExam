@@ -1,0 +1,165 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/tabbar/Index",
+			"style": {
+				"navigationBarTitleText": "首页"
+			}
+		},
+		{
+			"path": "pages/tabbar/Mine",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/tabbar/Study",
+			"style": {
+				"navigationBarTitleText": "学习"
+			}
+		},
+		{
+			"path": "pages/Mine/Info",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/Mine/MyExam",
+			"style": {
+				"navigationBarTitleText": "我的考试"
+			}
+		},
+		{
+			"path": "pages/Exam/IntoExam",
+			"style": {
+				"navigationBarTitleText": "考试"
+			}
+		},
+		{
+			"path": "pages/Exam/Exam",
+			"style": {
+				"navigationBarTitleText": "考试"
+			}
+		},
+		{
+			"path": "pages/practice/practice",
+			"style": {
+				"navigationBarTitleText": "练习"
+			}
+		},
+		{
+			"path": "pages/practice/choosePractice",
+			"style": {
+				"navigationBarTitleText": "课程选择"
+			}
+		},
+		{
+			"path": "pages/practice/choosePracticeType",
+			"style": {
+				"navigationBarTitleText": "练习选择"
+			}
+		},
+		{
+			"path": "pages/component/ExamRule",
+			"style": {
+				"navigationBarTitleText": "考试规定"
+			}
+		},
+		{
+			"path": "pages/Study/videoStudyInfo",
+			"style": {
+				"navigationBarTitleText": "视频学习"
+			}
+		},
+		{
+			"path": "pages/Study/video",
+			"style": {
+				"navigationBarTitleText": "观看视频"
+			}
+		},
+		{
+			"path": "pages/Index/AllNotice",
+			"style": {
+				"navigationBarTitleText": "考试通知"
+			}
+		},
+		{
+			"path": "pages/component/Login",
+			"style": {
+				"navigationBarTitleText": "登陆"
+			}
+		},
+		{
+			"path": "pages/component/Register",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		},
+		{
+			"path": "pages/component/UpdateUserInfo",
+			"style": {
+				"navigationBarTitleText": "信息修改"
+			}
+		},
+		{
+			"path": "pages/practice/userFavorPractice",
+			"style": {
+				"navigationBarTitleText": "题目收藏"
+			}
+		},
+		{
+			"path": "pages/practice/userWrongPractice",
+			"style": {
+				"navigationBarTitleText": "错题集"
+			}
+		},
+		{
+			"path": "pages/component/Start",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationStyle": "custom",
+				"disableScroll":true,
+				"app-plus": {
+					"titleNView": false,
+					"animationType": "slide-in-bottom",
+					"bounce":"none",
+					"scrollIndicator":"none",
+					"offset": "auto"  
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		// "navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#01D8FE",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"bounce": "none",
+			"scrollIndicator": "none"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#dd1515",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+			"pagePath": "pages/tabbar/Index",
+			"iconPath": "static/icon/index.png",
+			"selectedIconPath": "static/icon/index_s.png",
+			"text": "首页"
+		}, {
+			"pagePath": "pages/tabbar/Study",
+			"iconPath": "static/icon/study.png",
+			"selectedIconPath": "static/icon/study_s.png",
+			"text": "学习"
+		}, {
+			"pagePath": "pages/tabbar/Mine",
+			"iconPath": "static/icon/mine.png",
+			"selectedIconPath": "static/icon/mine_s.png",
+			"text": "我的"
+		}]
+	}
+}
